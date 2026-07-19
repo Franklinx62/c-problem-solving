@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+
 #include <string.h>
 
 double Max_sc(double *s , int count ) {
